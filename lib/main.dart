@@ -30,7 +30,6 @@ class DogApp extends StatelessWidget {
   }
 }
 
-
 class DogName extends StatelessWidget {
   final String name;
 
