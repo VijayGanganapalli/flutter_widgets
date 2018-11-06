@@ -41,7 +41,7 @@ class DogName extends StatelessWidget {
       decoration: BoxDecoration(color: Colors.lightBlueAccent),
       child: Padding(
         padding: const EdgeInsets.all(8.0),
-        child: Text("Rocky"),
+        child: Text(name),
       ),
     );
   }
